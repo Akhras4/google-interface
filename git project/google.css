@@ -22,6 +22,9 @@ body{
     padding:30px;
     align-items: center;
 }
+.nav-google{
+    z-index:2:
+}
 a{
     text-decoration: none;
     color: white;
